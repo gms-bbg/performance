@@ -38,4 +38,4 @@ https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
 |Intel Haswell|x|x|x|x|x|x|x|
 |Intel Skylake|x|x|x|x|x|x|x|
 |AMD EPYC|x|x|x|x|x|x|David|
-|Cavium ThunderX2|x|x|x|x|x|x|Michael, AT, Sarom|
+|Cavium ThunderX2|x|x|x|x|x|x|Michael|
