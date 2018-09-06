@@ -23,7 +23,7 @@ Some inputs may have used different converges.
 |cocaine|952|x-0952-andrey-cocaine-rhf-*|
 |cholesterol|1484|x-1484-misc-cholesterol-rhf-*|
 |d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-rhf-*|
-|valinomycin|3600|x-3600-misc-valinomycin-rhf-|
+|valinomycin|3600|x-3600-misc-valinomycin-rhf-*|
 
 ## GAMESS Methods
 
