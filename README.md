@@ -33,9 +33,9 @@ https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
 
 ## Build Information
 
-|Architecture|Compiler|Version|BLAS|Version|COMM|Version|
-|------------|--------|------:|----|------:|----|------:|
-|Intel Haswell|x|x|x|x|x|x|
-|Intel Skylake|x|x|x|x|x|x|
-|AMD EPYC|x|x|x|x|x|x|
-|Cavium ThunderX2|x|x|x|x|x|x|
+|Architecture|Compiler|Version|BLAS|Version|COMM|Version|Benchmark Lead|
+|------------|--------|------:|----|------:|----|------:|-------|
+|Intel Haswell|x|x|x|x|x|x|x|
+|Intel Skylake|x|x|x|x|x|x|x|
+|AMD EPYC|x|x|x|x|x|x|David|
+|Cavium ThunderX2|x|x|x|x|x|x|Michael, AT, Sarom|
