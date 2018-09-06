@@ -25,3 +25,9 @@ Some inputs may have used different converges.
 |d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-rhf-*|
 |valinomycin|3600|x-3600-misc-valinomycin-rhf-|
 
+## GAMESS version
+
+The version of GAMESS used for this benchmark set is tagged and available here:
+
+https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
+
