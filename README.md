@@ -15,3 +15,13 @@ Optimization settings used to obtain starting structures:
 
 Some inputs may have used different converges.
 
+|System name|# of Basis Functions|Filename|
+|-----------|-------------------:|--------|
+|water cluster 7CH2|406|x-0406-water-clusters-7CH2-rhf-*|
+|s66 uracil HB|592|x-0592-s66-uracil-uracil-bp-rhf|
+|valium|791|x-0791-andrey-valium-rhf-*|
+|cocaine|952|x-0952-andrey-cocaine-rhf-*|
+|cholesterol|1484|x-1484-misc-cholesterol-rhf-*|
+|d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-rhf-*|
+|valinomycin|3600|x-3600-misc-valinomycin-rhf-|
+
