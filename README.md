@@ -27,7 +27,12 @@ Some inputs may have used different converges.
 
 ## GAMESS Methods
 
-
+* RHF
+* DFT (PBE0 and M06-2X)
+* MP2
+* RI-MP2 (ACCT auxiliary basis set)
+* CCSD
+* CCSD(T)
 
 ## GAMESS Source
 

@@ -2,7 +2,7 @@
 
 ## MP2 Energies
 
-|Input|# GAMESS Compute|MWORDS |MWORDS (GB)|MEMDDI|MEMDDI (GB)|Comment|
+|Input|# GAMESS Compute|MWORDS |(GB)|MEMDDI|(GB)|Comment|
 |-----|----------------:|-----:|------:|-----:|------:|-------:|
 |x-0406-water-clusters-7CH2-rhf-mp2-cct.inp|1|7||86|~0.7|None|
 |x-0592-s66-uracil-uracil-bp-rhf-mp2-cct.inp|1|18||422|~4|None|
