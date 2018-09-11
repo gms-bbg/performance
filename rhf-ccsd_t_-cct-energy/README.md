@@ -2,13 +2,19 @@
 
 ## CCSD(T)  Energies
 
-|Input|# GAMESS Compute|MWORD|MEMDDI|Comment|
-|-----|----------------:|-----:|------:|-------:|
-|x-0406-water-clusters-7CH2-rhf-ccsd_t-cct.inp|1|32|2048|This is the only that works|
-|x-0592-s66-uracil-uracil-bp-rhf-ccsd_t-cct.inp|1|68|9780|?|
-|x-0791-andrey-valium-rhf-ccsd_t-cct.inp|1|121|26353|?|
-|x-0952-andrey-cocaine-rhf-ccsd_t-cct.inp|1|178|32090|?|
-|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-ccsd_t-cct.inp|1|304|155480|?|
-|x-1484-misc-cholesterol-rhf-ccsd_t-cct.inp|1|435|261377|?|
-|x-1938-andrey-d-tubocurarine-rhf-ccsd_t-cct.inp|1|733|893013|?|
-|x-3600-misc-valinomycin-rhf-ccsd_t-cct.inp|1|2524|10904909|?|
+|Input|# GAMESS Compute|MWORD|(~GB)|MEMDDI|(~GB)|Comment|
+|-----|----------------:|-----:|--:|------:|--:|-------:|
+|x-0406-water-clusters-7CH2-rhf-ccsd_t-cct.inp|1|35|0.3|2050|16|All architectures|
+|x-0592-s66-uracil-uracil-bp-rhf-ccsd_t-cct.inp|1|70|0.6|9780|76|All architectures|
+|x-0791-andrey-valium-rhf-ccsd_t-cct.inp|1|125|1|26355|206||
+|x-0952-andrey-cocaine-rhf-ccsd_t-cct.inp|1|180|1.4|32090|251||
+|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-ccsd_t-cct.inp|1|305|2.4|155480|1215||
+|x-1484-misc-cholesterol-rhf-ccsd_t-cct.inp|1|435|3.4|261380|2042||
+|x-1800-misc-c60-rhf-ccsd_t-cct.inp|1|630|4.9|775000|6055||
+|x-1938-andrey-d-tubocurarine-rhf-ccsd_t-cct.inp|1|735|5.7|893015|6977||
+|x-3600-misc-valinomycin-rhf-ccsd_t-cct.inp|1|2525|19.7|10904910|85195||
+
+### MWORD or MEMDDI to GB conversion:
+
+*  size in GB = (size in MWORD or MEMDDI) * 8 / 1024
+

@@ -1,5 +1,6 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
  $CONTRL EXETYP=RUN $END
+ $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=1 $END
  $SYSTEM MEMDDI=1 $END
  $CONTRL SCFTYP=RHF MULT=1 ICHARG=0 ISPHER=1 $END
@@ -11,7 +12,6 @@
  $BASIS GBASIS=CCT $END
  $STATPT NSTEP=1000 OPTTOL=0.0001 $END
  $MP2 CODE=DDI $END
- $SYSTEM PARALL=.T. $END
  $DATA
  small : clusters-HF-dimer : CCT
  C1

@@ -1,5 +1,6 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
  $CONTRL EXETYP=RUN $END
+ $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=320 $END
  $SYSTEM MEMDDI=33685 $END
  $CONTRL SCFTYP=RHF MULT=1 ICHARG=+2 NZVAR=255 ISPHER=1 $END
@@ -12,7 +13,6 @@
  $STATPT NSTEP=1000 OPTTOL=0.0001 $END
  $zmat   auto=.true. dlc=.true. $end
  $MP2 CODE=DDI $END
- $SYSTEM PARALL=.T. $END
  $DATA
  andrey : d-tubocurarine : CCT
 C1

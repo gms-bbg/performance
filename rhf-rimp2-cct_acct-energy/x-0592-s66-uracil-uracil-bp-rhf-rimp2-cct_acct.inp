@@ -1,5 +1,6 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
  $CONTRL EXETYP=RUN $END
+ $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=15 $END
  $SYSTEM MEMDDI=51 $END
  $CONTRL SCFTYP=RHF MULT=1 ICHARG=0 ISPHER=1 $END
@@ -13,7 +14,6 @@
  $MP2 CODE=RIMP2 $END
 !$MP2 NACORE=0 $END
  $AUXBAS CABNAM=ACCT $END
- $SYSTEM PARALL=.T. $END
  $DATA
  s66 : uracil-uracil-bp : CCT
  C1

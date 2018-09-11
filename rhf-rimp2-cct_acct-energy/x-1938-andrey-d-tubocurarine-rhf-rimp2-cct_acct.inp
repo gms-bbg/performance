@@ -1,5 +1,6 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
  $CONTRL EXETYP=RUN $END
+ $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=115 $END
  $SYSTEM MEMDDI=1440 $END
  $CONTRL SCFTYP=RHF MULT=1 ICHARG=+2 NZVAR=255 ISPHER=1 $END
@@ -14,7 +15,6 @@
  $MP2 CODE=RIMP2 $END
 !$MP2 NACORE=0 $END
  $AUXBAS CABNAM=ACCT $END
- $SYSTEM PARALL=.T. $END
  $DATA
  andrey : d-tubocurarine : CCT
 C1

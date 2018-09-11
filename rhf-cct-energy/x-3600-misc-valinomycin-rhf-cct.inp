@@ -1,5 +1,6 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
  $CONTRL EXETYP=RUN $END
+ $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=123 $END
  $SYSTEM MEMDDI=0 $END
  $CONTRL SCFTYP=RHF MULT=1 ICHARG=0 ISPHER=1 $END
