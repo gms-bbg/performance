@@ -8,6 +8,7 @@
 |x-0592-s66-uracil-uracil-bp-rhf-cct.inp|1|4|0|None|
 |x-0791-andrey-valium-rhf-cct.inp|1|7|0|None|
 |x-0952-andrey-cocaine-rhf-cct.inp|1|9|0|None|
+|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-cct.inp|1|15|0|None|
 |x-1484-misc-cholesterol-rhf-cct.inp|1|21|0|None|
 |x-1938-andrey-d-tubocurarine-rhf-cct.inp|1|36|0|None|
 |x-3600-misc-valinomycin-rhf-cct.inp|1|123|0|None|
