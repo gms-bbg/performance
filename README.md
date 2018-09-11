@@ -23,6 +23,7 @@ Some inputs may have used different converges.
 |cocaine|952|x-0952-andrey-cocaine-*|
 |N,N-bis[(2S)-2-hydroxy-3-phenoxypropyl]aniline|1248|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-*|
 |cholesterol|1484|x-1484-misc-cholesterol-*|
+|C60|1800|x-1484-misc-c60-*|
 |d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-*|
 |valinomycin|3600|x-3600-misc-valinomycin-*|
 
