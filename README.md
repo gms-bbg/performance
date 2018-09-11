@@ -21,6 +21,7 @@ Some inputs may have used different converges.
 |s66 uracil HB|592|x-0592-s66-uracil-uracil-bp-rhf|
 |valium|791|x-0791-andrey-valium-rhf-*|
 |cocaine|952|x-0952-andrey-cocaine-rhf-*|
+|N,N-bis[(2S)-2-hydroxy-3-phenoxypropyl]aniline|1248|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-*|
 |cholesterol|1484|x-1484-misc-cholesterol-rhf-*|
 |d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-rhf-*|
 |valinomycin|3600|x-3600-misc-valinomycin-rhf-*|
