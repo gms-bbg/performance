@@ -17,14 +17,14 @@ Some inputs may have used different converges.
 
 |System name|# of Basis Functions|Filename|
 |-----------|-------------------:|--------|
-|water cluster 7CH2|406|x-0406-water-clusters-7CH2-rhf-*|
-|s66 uracil HB|592|x-0592-s66-uracil-uracil-bp-rhf|
-|valium|791|x-0791-andrey-valium-rhf-*|
-|cocaine|952|x-0952-andrey-cocaine-rhf-*|
-|N,N-bis[(2S)-2-hydroxy-3-phenoxypropyl]aniline|1248|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-*|
-|cholesterol|1484|x-1484-misc-cholesterol-rhf-*|
-|d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-rhf-*|
-|valinomycin|3600|x-3600-misc-valinomycin-rhf-*|
+|water cluster 7CH2|406|x-0406-water-clusters-7CH2-*|
+|s66 uracil HB|592|x-0592-s66-uracil-uracil-bp-*|
+|valium|791|x-0791-andrey-valium-*|
+|cocaine|952|x-0952-andrey-cocaine-*|
+|N,N-bis[(2S)-2-hydroxy-3-phenoxypropyl]aniline|1248|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-*|
+|cholesterol|1484|x-1484-misc-cholesterol-*|
+|d-tubocurarine|1938|x-1938-andrey-d-tubocurarine-*|
+|valinomycin|3600|x-3600-misc-valinomycin-*|
 
 ## GAMESS Methods
 
@@ -45,7 +45,7 @@ https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
 
 |Architecture|Compiler|Version|BLAS|Version|COMM|Version|Benchmark Lead|
 |------------|--------|------:|----|------:|----|------:|-------|
-|Intel Haswell|x|x|x|x|x|x|Taylor|
-|Intel Skylake|x|x|x|x|x|x|Jorge|
-|AMD EPYC|x|x|x|x|x|x|David|
-|Cavium ThunderX2|x|x|x|x|x|x|Michael|
+|Intel Haswell|Intel|x|Intel MKL|x|Intel MPI|x|Taylor|
+|Intel Skylake|Intel|x|Intel MKL|x|Intel MPI|x|Jorge|
+|AMD EPYC|GNU|x|[OpenBLAS,LibFLAME]|x|OpenMPI|x|David|
+|Cavium ThunderX2|GNU|x|OpenBLAS|x|OpenMPI|x|Michael|
