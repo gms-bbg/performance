@@ -21,6 +21,7 @@ Some inputs may have used different converges.
 |s66 uracil HB|592|x-0592-s66-uracil-uracil-bp-*|
 |valium|791|x-0791-andrey-valium-*|
 |cocaine|952|x-0952-andrey-cocaine-*|
+|hexanitrostilbene|1044|x-1044-hexanitrostilbene-*|
 |N,N-bis[(2S)-2-hydroxy-3-phenoxypropyl]aniline|1248|x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-*|
 |cholesterol|1484|x-1484-misc-cholesterol-*|
 |C60|1800|x-1484-misc-c60-*|
@@ -29,12 +30,13 @@ Some inputs may have used different converges.
 
 ## GAMESS Methods
 
-* RHF
-* DFT (PBE0 and M06-2X)
-* MP2
-* RI-MP2 (ACCT auxiliary basis set)
-* CCSD
-* CCSD(T)
+* RHF Energies
+* DFT Energies (PBE0 and M06-2X)
+* MP2 Energies
+* MP2 Gradients
+* RI-MP2 Energies (ACCT auxiliary basis set)
+* CCSD Energies
+* CCSD(T) Energies
 
 ## GAMESS Source
 
