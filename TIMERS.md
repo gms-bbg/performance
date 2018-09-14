@@ -11,7 +11,7 @@
 ||Eigenvectors (standard out)|rhfuhf.src|8344|8388|Printing molecular orbitals to standard out|Low|
 ||Eigenvectors (to file)|rhfuhf.src|8393|8416|Writing molecular orbitals to file|Low|
 ||**MP2** DDI array creation|mp2ddi.src|440|487|Creating distributed data structures for MP2|High|
-||**MP2** direct 4-index transformation|||||High|
+||**MP2** direct 4-index transformation|mp2ddi.src|881|889|Parallel integral transformation for MP2|High|
 ||**RI-MP2**|||||High|
 ||**CCSD** partial 2-electron transformation|||||High|
 ||**CCSD** DDI array creation|||||High|
@@ -20,3 +20,4 @@
 ||**CCSD** integral initialization|||||High|
 ||**CCSD** iteration|||||High|
 ||**CCSD(T)** triples correction|||||High|
+||4-index integral transformation|trans.src|2585|2586|4-index integral transformation - unclear if this is an overlapping call between MP2,RI-MP2,CCSD,CCSD(T)|High|
