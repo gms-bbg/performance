@@ -48,7 +48,7 @@ https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
 
 |Architecture|Compiler|Version|BLAS|Version|COMM|Version|Benchmark Lead|
 |------------|--------|------:|----|------:|----|------:|-------|
-|Intel Haswell|Intel|x|Intel MKL|x|Intel MPI|x|Taylor|
-|Intel Skylake|Intel|x|Intel MKL|x|Intel MPI|x|Jorge|
-|AMD EPYC|GNU|x|[OpenBLAS,LibFLAME]|x|OpenMPI|x|David|
+|Intel Haswell|Intel|18.3|Intel MKL|18.3|Intel MPI|18.3|Taylor|
+|Intel Skylake|Intel|18.3|Intel MKL|18.3|Intel MPI|18.3|Jorge|
+|AMD EPYC|GNU|x|[OpenBLAS,LibFLAME]|x|OpenMPI|3.1.2|David|
 |Cavium ThunderX2|GNU|x|OpenBLAS|x|OpenMPI|x|Michael|
