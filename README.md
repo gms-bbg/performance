@@ -42,7 +42,8 @@ Some inputs may have used different converges.
 
 The version of GAMESS used for this benchmark set is tagged and available here:
 
-https://github.com/gms-bbg/gamess/releases/tag/v1.0-perf
+[https://github.com/gms-bbg/gamess/releases/tag/v1.1-perf](https://github.com/gms-bbg/gamess/releases/tag/v1.1-perf)
+*  Specific commit: f7684921b1227d8a3debd5ae7d0455c612c06489
 
 ## Build Information
 
