@@ -109,10 +109,10 @@ cp -rf rhf-rimp2-mpiomp-cct_acct-energy moread/.
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-0592-s66-uracil-uracil-bp-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-0791-andrey-valium-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-0952-andrey-cocaine-rhf-rimp2-cct_acct.inp
- echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1044-hexanitrostilbene-rhf-rimp2-cct.inp
+ echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1044-hexanitrostilbene-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1484-misc-cholesterol-rhf-rimp2-cct_acct.inp
- echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1800-misc-c60-rhf-rimp2-cct.inp
+ echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1800-misc-c60-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-1938-andrey-d-tubocurarine-rhf-rimp2-cct_acct.inp
  echo " \$GUESS GUESS=MOREAD \$END" >> moread/rhf-rimp2-cct_acct-energy/x-3600-misc-valinomycin-rhf-rimp2-cct_acct.inp
 
@@ -220,7 +220,7 @@ cat x-0592-s66-uracil-uracil-bp-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-
 cat x-0791-andrey-valium-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-0791-andrey-valium-rhf-rimp2-mpiomp-cct_acct.inp
 cat x-0952-andrey-cocaine-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-0952-andrey-cocaine-rhf-rimp2-mpiomp-cct_acct.inp
 cat x-1044-hexanitrostilbene-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-1044-hexanitrostilbene-rhf-rimp2-mpiomp-cct_acct.inp
-cat x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-cct.dat >> moread/rhf-rimp2-cct_acct-energy/x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-rimp2-mpiomp-cct_acct.inp
+cat x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-1248-misc-NNbis2S2-hydroxy-3-phenoxypropyl-aniline-rhf-rimp2-mpiomp-cct_acct.inp
 cat x-1484-misc-cholesterol-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-1484-misc-cholesterol-rhf-rimp2-mpiomp-cct_acct.inp
 cat x-1800-misc-c60-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-1800-misc-c60-rhf-rimp2-mpiomp-cct_acct.inp
 cat x-1938-andrey-d-tubocurarine-rhf-cct.dat >> moread/rhf-rimp2-mpiomp-cct_acct-energy/x-1938-andrey-d-tubocurarine-rhf-rimp2-mpiomp-cct_acct.inp
