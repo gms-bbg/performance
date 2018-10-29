@@ -1,0 +1,23 @@
+{
+  "parse_header" : "WAVEFUNCTION PROPERTIES",
+  "parse_group" : [
+   {
+     "regex_string" : "^(\\s*)WAVEFUNCTION NORMALIZATION =.*$",
+     "parse_name"   : "WAVEFUNCTION NORMALIZATION",
+     "parse_case_sensitive" : true,
+     "parse_type" : "float",
+     "parse_precision" : 10,
+     "parse_tolerance" : -1,
+     "parse_value_index" : 0,
+     "parse_line_offset" : 0,
+     "parse_instance" : -1,
+     "parse_required" : false
+   },
+   {
+     "regex_string" : "^(\\s*)TOTAL ENERGY =.*$",
+     "parse_name"   : "TOTAL ENERGY",
+     "parse_tolerance" : -1,
+     "parse_recipe" : "lastinstance_firstindex"
+   }
+  ]
+}
