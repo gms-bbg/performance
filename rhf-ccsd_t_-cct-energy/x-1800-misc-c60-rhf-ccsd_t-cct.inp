@@ -1,4 +1,5 @@
 ! https://gamess.gitbooks.io/gamess-input-description/content
+ $CCINP IOSIZE=268025210 $END
  $CONTRL EXETYP=RUN $END
  $SYSTEM PARALL=.T. $END
  $SYSTEM MWORDS=630 $END
